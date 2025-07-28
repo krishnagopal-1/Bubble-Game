@@ -89,7 +89,7 @@ body {
     background-color: rgb(17, 17, 133);
 }
 
-@media (max-width: 700px) {
+@media (max-width: 600px) {
     #main {
         padding-top: 5%;
     }
